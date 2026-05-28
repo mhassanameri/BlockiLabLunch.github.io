@@ -1,0 +1,5 @@
+titl: "Lab Lunch Talks"
+description: "Weekly presentations and discussions"
+theme: jekyll-theme-cayman
+markdown: kramdown
+include: [assets]
